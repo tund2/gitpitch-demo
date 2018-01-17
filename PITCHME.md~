@@ -19,15 +19,16 @@
 
 ## Các khái niệm cơ bản
 
-- Index: giống schema database trong MySQL.
-- Type: giống như table trong MySQL. 1 index có nhiều type.
-- Document: đơn vị cơ bản như row của table
+![Architecture](assets/image/Es-cluster.png)
 
 ---?image=assets/image/daniel-ghio.jpg
 
 ## Các khái niệm cơ bản
-+++?image=assets/image/Es-cluster.png
-<!-- .slide: data-background-transition="none" -->
+
+- Index: giống schema database trong MySQL.
+- Type: giống như table trong MySQL. 1 index có nhiều type.
+- Document: đơn vị cơ bản như row của table
+
 
 <br><br>
 
