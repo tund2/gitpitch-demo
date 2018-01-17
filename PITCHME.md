@@ -17,14 +17,18 @@
 
 ---?image=assets/image/daniel-ghio.jpg
 
-## Template Features
+## Các khái niệm cơ bản
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- Cluster: Một tập hợp Nodes (servers) chứa tất cả các dữ liệu.
+- Node: Một server duy nhất chứa một số dữ liệu và tham gia vào cluster’s indexing and querying.
+- Index: Hãy quên SQL Indexes đi. Mỗi ES Index là 1 tập hợp các documents.
+- Shards: Tập con các documents của 1 Index. Một Index có thể được chia thành nhiều shard.
+- Type: Một định nghĩa về schema of a Document bên trong một Index (Index có thể có nhiều type).
+- Document: Một JSON object với một số dữ liệu. Đây là basic information unit trong ES.
+
+## Các khái niệm cơ bản
++++?image=assets/image/Es-cluster.png
+<!-- .slide: data-background-transition="none" -->
 
 <br><br>
 
