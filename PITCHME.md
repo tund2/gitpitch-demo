@@ -19,12 +19,11 @@
 
 ## Các khái niệm cơ bản
 
-- Cluster: Một tập hợp Nodes (servers) chứa tất cả các dữ liệu.
-- Node: Một server duy nhất chứa một số dữ liệu và tham gia vào cluster’s indexing and querying.
-- Index: Hãy quên SQL Indexes đi. Mỗi ES Index là 1 tập hợp các documents.
-- Shards: Tập con các documents của 1 Index. Một Index có thể được chia thành nhiều shard.
-- Type: Một định nghĩa về schema of a Document bên trong một Index (Index có thể có nhiều type).
-- Document: Một JSON object với một số dữ liệu. Đây là basic information unit trong ES.
+- Index: giống schema database trong MySQL.
+- Type: giống như table trong MySQL. 1 index có nhiều type.
+- Document: đơn vị cơ bản như row của table
+
+---?image=assets/image/daniel-ghio.jpg
 
 ## Các khái niệm cơ bản
 +++?image=assets/image/Es-cluster.png
