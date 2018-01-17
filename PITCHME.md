@@ -33,7 +33,7 @@
 
 ## Ưu - Nhược điểm của elasticsearch
 - Tốc độ nhanh - hỗ trợ truy vấn song song trên nhiều cluster/node/shard.
-- Dễ dàng thao tác . Hỗ trợ HTTP/TCP và các lib client trên nhiều loại ngôn ngữ.
+- Dễ dàng thao tác . Hỗ trợ REST API và các lib client trên nhiều loại ngôn ngữ.
 - Sắp xếp kết quả truy vấn theo Relevance.
 
 - Việc ghi dữ liệu không realtime.

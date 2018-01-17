@@ -41,7 +41,8 @@
 
 ---?image=assets/image/daniel-ghio.jpg
 
-## Inverted index 
+## Indexing
+- ES sẽ cố gắng phân tán các document qua các shard
 ![InvetertedIndex](assets/image/inverted-index.png)
 
 <br><br>
