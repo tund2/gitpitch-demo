@@ -2,18 +2,17 @@
 
 # Elasticsearch
 
-### Tổng quan về Elasticsearch
+### 
 
 ---?image=assets/image/daniel-ghio.jpg
 
-## Elasticsearch là gì?
+## Tips!
 
 <br>
 
-- Elasticsearch là một DB dùng để lưu trữ và tìm kiếm text |
-- Hỗ trợ tìm kiếm text theo cấu trúc |
-- Tổng hợp dữ liêụ (Data aggregation)|
-- Tìm kiếm theo tọa độ - Geo search |
+@fa[arrows gp-tip](Press F to go Fullscreen)
+
+@fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---?image=assets/image/daniel-ghio.jpg
 
